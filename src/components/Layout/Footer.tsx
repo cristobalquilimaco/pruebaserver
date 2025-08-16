@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-sm text-gray-300">
                 <Mail className="w-4 h-4 text-primary" />
-                <span>hola@teguilog.com</span>
+                <span>info@teguilog.com</span>
               </div>
               <div className="flex items-center space-x-2 text-sm text-gray-300">
                 <Phone className="w-4 h-4 text-primary" />
@@ -68,7 +68,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center space-x-2 text-sm text-gray-300">
                 <MapPin className="w-4 h-4 text-primary" />
-                <span>Madrid, España</span>
+                <span>Estados Unidos, Colombia, Venezuela</span>
               </div>
             </div>
           </div>
